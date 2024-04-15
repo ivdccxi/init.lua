@@ -9,8 +9,8 @@ local opts = {
 -----------------
 
 --leader
-vim.g.mapleader = ','
-vim.g.maplocalleader = ','
+vim.g.mapleader = ' '
+vim.g.maplocalleader = ' '
 
 -- Hint: see `:h vim.map.set()`
 -- Better window navigation
